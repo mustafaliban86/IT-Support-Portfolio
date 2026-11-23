@@ -35,7 +35,7 @@ Active Directory confirmed that the account password was successfully changed.
 ## Screenshot Evidence
 
 ### Password Reset Procedure
-![Password Reset](08-Password-Reset-Process.png)
+![Password Reset](HD-001-01-Password-Reset-Process.png)
 
 ### Successful Password Reset
-![Reset Confirmation](09-Password-Reset-Success.png)
+![Reset Confirmation](HD-001-02-Password-Reset-Success.png)
