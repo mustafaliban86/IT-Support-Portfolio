@@ -32,3 +32,10 @@ Active Directory confirmed that the account password was successfully changed.
 - User account management
 - Help desk ticket documentation
 - Basic identity and access management
+## Screenshot Evidence
+
+### Password Reset Procedure
+![Password Reset](08-Password-Reset-Process.webp)
+
+### Successful Password Reset
+![Reset Confirmation](09-Password-Reset-Success.webp)
