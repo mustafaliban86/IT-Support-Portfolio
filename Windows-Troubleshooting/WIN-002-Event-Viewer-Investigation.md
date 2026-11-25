@@ -85,7 +85,7 @@ Restoring appropriate external connectivity and confirming valid Windows activat
 
 ### 1. Event Viewer — Activation Error
 
-![Event Viewer Error](WIN-002-01-Activation-Event-Log.png)
+![Event Viewer Error](WIN-002-01-Application-Event-Log.png)
 
 ### 2. Network Configuration and DNS Diagnostics
 
